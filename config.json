@@ -1,0 +1,8 @@
+{
+  "ip": "{ip}",
+  "env": "{env}",
+  "appId": "{appId}",
+  "token": "{token}",
+  "createdBy": "{createBy}",
+  "nginxConfPath": "/usr/local/nginx/conf/nginx.conf"
+}
